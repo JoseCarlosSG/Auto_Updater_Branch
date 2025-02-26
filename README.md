@@ -2,7 +2,7 @@ Uso:
 
 Ejecuta el script con:
 
-python script.py MyClass /ruta/del/archivo.py my_branch 8228270
+python script.py MyClass /ruta/del/archivo.py my_branch 1234567
 
 Si la clase está hasta el final del archivo, omite el identificador:
 
